@@ -1,4 +1,4 @@
-# first_plateformer
+# first_plateformer ( en développement )
 
 Ce projet vise a créer un petit jeu de plateforme dans le but d'apprendre a utiliser des outils de création de jeux vidéo ici Godot .
 
